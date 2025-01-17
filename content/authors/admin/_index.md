@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Daeun Oh
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Daeun Oh
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Daeun
+last_name: Oh
 
 # Status emoji
 status:
