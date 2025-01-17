@@ -55,7 +55,7 @@ education:
   - area: BS Engineering
     institution: Sungkyunkwan University
     date_start: 2017-03-01
-    date_end: 2021-2-17
+    date_end: 2021-02-17
     summary: |
       GPA: 3.8/4.0
       
