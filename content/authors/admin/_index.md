@@ -67,70 +67,65 @@ education:
       - ML
       - Robotics
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Missile Simulation Developer
+    company_name: LIG Nex1
+    company_url: https://www.lignex1.com/eng/main.do
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2021-03-15
+    date_end: 2022-01-29
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      -  Developed a control center simulator for the LSAM (Long-range Surface-to-Air Missile) missile system. consectetur adipiscing elit
+  - position: SSD Diagnostics Software Developer
+    company_name: Samsung Electronics
+    company_url: https://semiconductor.samsung.com/
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-03-05
+    date_end: 2025-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      -  Engineered an advanced SSD error analysis automation tool for data center SSDs, significantly improving reliability and maintenance processes.
+      -  Implemented Samsung-specified SSD error log specifications
+ into code, achieving precise and efficient error detection.
+      -  Conducted a comprehensive analysis of customer requirements and integrated their needs into the software design, delivering customized solutions.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C++
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: C
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        percent: 80
+        icon: code-bracket
+      - name: Python
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 70
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Room Escape
         description: ''
-        percent: 60
+        percent: 99
         icon: person-simple-walk
-      - name: Cats
+      - name: Going to Gym!
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
 
 languages:
   - name: English
+    percent: 80
+  - name: Korean
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: French
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -166,4 +161,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Daeun Oh is a software engineer at Samsung Electroncis. Her interest include software engineering, storage system optimization, and hardware-software co-design. She develops many SSD analysis tools that extracts status data (like SMART) from SSDs for data analysis. From this data analysis, we assume the status of devices and detect or predict SSDs' errors.
