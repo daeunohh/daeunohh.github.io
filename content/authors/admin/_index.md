@@ -75,7 +75,7 @@ work:
     date_end: 2022-01-29
     summary: |2-
       Responsibilities include:
-      -  Developed a control center simulator for the LSAM (Long-range Surface-to-Air Missile) missile system. consectetur adipiscing elit
+      -  Developed a control center simulator for the LSAM (Long-range Surface-to-Air Missile) missile system. 
   - position: SSD Diagnostics Software Developer
     company_name: Samsung Electronics
     company_url: https://semiconductor.samsung.com/
@@ -85,8 +85,7 @@ work:
     summary: |1-
       Responsibilities include:
       -  Engineered an advanced SSD error analysis automation tool for data center SSDs, significantly improving reliability and maintenance processes.
-      -  Implemented Samsung-specified SSD error log specifications
- into code, achieving precise and efficient error detection.
+      -  Implemented Samsung-specified SSD error log specifications into code, achieving precise and efficient error detection.
       -  Conducted a comprehensive analysis of customer requirements and integrated their needs into the software design, delivering customized solutions.
 
 # Skills
