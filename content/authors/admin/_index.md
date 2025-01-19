@@ -82,7 +82,7 @@ work:
     company_logo: ''
     date_start: 2022-03-05
     date_end: 2025-12-31
-    summary: |
+    summary: |1-
       Responsibilities include:
       -  Engineered an advanced SSD error analysis automation tool for data center SSDs, significantly improving reliability and maintenance processes.
       -  Implemented Samsung-specified SSD error log specifications
