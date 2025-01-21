@@ -104,15 +104,15 @@ skills:
       - name: C++
         description: ''
         percent: 80
-        icon: Cpp.svg
+        icon: Cpp
       - name: C
         description: ''
         percent: 80
-        icon: C.svg
+        icon: C
       - name: Python
         description: ''
         percent: 70
-        icon: py.svg
+        icon: py
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
