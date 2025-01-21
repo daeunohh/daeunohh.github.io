@@ -10,8 +10,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - ''
+
 
 date: '2023-07-01T00:00:00Z'
 doi: 'Oh, D., & Kim, J. hoon. (2023). The measurement of the impact of soft error in SSD's OS layer. Korean Semiconductor Testing Society Academic Conference Proceedings, 24, 298–302.'
