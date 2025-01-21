@@ -6,7 +6,7 @@
 # Website name
 title: Welcome to Daeun's CV website!
 # Website URL
-baseURL: 'https://daeunohh.github.io/'
+baseURL: 'https://example.com/'
 
 ############################
 ## LANGUAGE
