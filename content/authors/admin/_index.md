@@ -51,21 +51,28 @@ interests:
   - Storage System Debuggability 
   - SSD Analysis Software Development
 
-education:
-  - area: BS Engineering
-    institution: Sungkyunkwan University
-    date_start: 2017-03-01
-    date_end: 2021-02-17
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.5
+      GPA: 3.8/4.0
 
       Courses included:
-      - Computer architecture
-      - Embedded System
-      - Software Engineering
-      - Analog, Digital Circuit Design
-      - ML
-      - Robotics
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Missile Simulation Developer
     company_name: LIG Nex1
