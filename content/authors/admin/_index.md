@@ -58,7 +58,6 @@ education:
     date_end: 2021-02-17
     summary: |
       GPA: 3.8/4.0
-      
       Courses included:
       - Computer architecture
       - Embedded System
