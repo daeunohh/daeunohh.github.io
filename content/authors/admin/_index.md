@@ -3,7 +3,7 @@
 title: Daeun Oh
 
 # Name pronunciation (optional)
-name_pronunciation: Daeun Oh
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Daeun
@@ -73,7 +73,7 @@ work:
     company_logo: ''
     date_start: 2021-03-15
     date_end: 2022-01-29
-    summary: |2-
+    summary: |
       Responsibilities include:
       -  Developed a control center simulator for the LSAM (Long-range Surface-to-Air Missile) missile system. 
   - position: SSD Diagnostics Software Developer
@@ -82,7 +82,7 @@ work:
     company_logo: ''
     date_start: 2022-03-05
     date_end: 2025-12-31
-    summary: |1-
+    summary: |
       Responsibilities include:
       -  Engineered an advanced SSD error analysis automation tool for data center SSDs, significantly improving reliability and maintenance processes.
       -  Implemented Samsung-specified SSD error log specifications into code, achieving precise and efficient error detection.
