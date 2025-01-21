@@ -44,12 +44,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.linkedin.com/in/daeun-oh-2685b1277/overlay/1635555937294/single-media-viewer/?profileId=ACoAAEOKrzABAVIVIO792m4F8SsG0b7EGzfCUpQ'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://www.linkedin.com/in/daeun-oh-2685b1277/overlay/1635555937294/single-media-viewer/?profileId=ACoAAEOKrzABAVIVIO792m4F8SsG0b7EGzfCUpQ'
 url_source: ''
 url_video: ''
 
