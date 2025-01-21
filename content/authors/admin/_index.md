@@ -57,7 +57,8 @@ education:
     date_start: 2017-03-01
     date_end: 2021-02-17
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.8/4.5
+
       Courses included:
       - Computer architecture
       - Embedded System
@@ -65,7 +66,6 @@ education:
       - Analog, Digital Circuit Design
       - ML
       - Robotics
-
 work:
   - position: Missile Simulation Developer
     company_name: LIG Nex1
