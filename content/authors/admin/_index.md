@@ -66,6 +66,7 @@ education:
       - Analog, Digital Circuit Design
       - ML
       - Robotics
+
 work:
   - position: Missile Simulation Developer
     company_name: LIG Nex1
@@ -75,7 +76,8 @@ work:
     date_end: 2022-01-29
     summary: |
       Responsibilities include:
-      -  Developed a control center simulator for the LSAM (Long-range Surface-to-Air Missile) missile system. 
+      -  Developed a control center simulator for the LSAM (Long-range Surface-to-Air Missile) missile system.
+  
   - position: SSD Diagnostics Software Developer
     company_name: Samsung Electronics
     company_url: https://semiconductor.samsung.com/
