@@ -12,9 +12,8 @@ authors:
 author_notes:
   - ''
 
-
 date: '2023-07-01T00:00:00Z'
-doi: 'Oh, D., & Kim, J. hoon. (2023). The measurement of the impact of soft error in SSD's OS layer. Korean Semiconductor Testing Society Academic Conference Proceedings, 24, 298–302.'
+doi: "Oh, D., & Kim, J. hoon. (2023). The measurement of the impact of soft error in SSD's OS layer. Korean Semiconductor Testing Society Academic Conference Proceedings, 24, 298–302."
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-07-03T00:00:00Z'
