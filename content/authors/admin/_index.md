@@ -51,6 +51,7 @@ interests:
   - Storage System Debuggability 
   - SSD Analysis Software Development
 
+education:
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
