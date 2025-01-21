@@ -1,5 +1,5 @@
 ---
-title: 'The measurement of the impact of soft error in SSD's OS layer'
+title: "The measurement of the impact of soft error in SSD's OS layer"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
