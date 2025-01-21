@@ -31,7 +31,7 @@ publication_short: In *ICW*
 abstract: SSD is an effective device for storing data, and various fields have chosen to use SSD. However, as the hardware components of SSD get more concentrated, SSD becomes more vulnerable to soft errors. A soft error on the SSD can cause malfunctions and SSD performance reductions. Previous studies investigated the impact of soft error on the application level. However, this study investigates the effect of soft error at the OS level. The experiment uses an in-house simulator, Flash OS, and a soft error manager, which is the overall executor of the investigation. While a virtual SSD, which is Flash OS, runs its task, the soft error manager injects a soft error by changing the context information of the task thread of the SSD. After the soft error occurs, the soft error manager traces errors in the OS layer. This process can measure the sensitivity of the OS component by the type of soft error injected task. The result shows that the vulnerability is concentrated on a particular OS component, depending on the task. Surprisingly, 68-71% of errors occurred in the most vulnerable OS component. This fact can hint at finding an effective and reliable method at the OS level to protect software functions from soft errors.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: ''
 
 tags:
   - SSD Softerror Detection
