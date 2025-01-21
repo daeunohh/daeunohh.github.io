@@ -98,7 +98,7 @@ skills:
       - name: C++
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: Cpp.png
       - name: C
         description: ''
         percent: 80
