@@ -160,4 +160,4 @@ awards:
 
 ## About Me
 
-Daeun Oh is a software engineer at Samsung Electronics. Her interests include software engineering, storage system optimization, and hardware-software co-design. She develops various SSD analysis tools that extract status data (such as SMART) from SSDs for data analysis. Through this data analysis, the status of devices is assessed, and SSD errors are detected or predicted.
+Daeun Oh is a software engineer at Samsung Electronics. Her interests include software engineering, storage system optimization, and hardware-software co-design. She develops various SSD analysis tools that extract status data (such as SMART) from SSDs for data analysis.
