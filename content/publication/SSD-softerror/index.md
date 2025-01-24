@@ -13,7 +13,7 @@ author_notes:
   - ''
 
 date: '2023-06-27T00:00:00Z'
-doi: "Oh, D., & Kim, J. hoon. (2023). The measurement of the impact of soft error in SSD's OS layer. Korean Semiconductor Testing Society Academic Conference Proceedings, 24, 298–302."
+# doi: "Oh, D., & Kim, J. hoon. (2023). The measurement of the impact of soft error in SSD's OS layer. Korean Semiconductor Testing Society Academic Conference Proceedings, 24, 298–302."
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-01-24T00:00:00Z'
@@ -24,7 +24,7 @@ publishDate: '2025-01-24T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *The Institute of Semiconductor Test of Korea*
+publication: In *Institute of Semiconductor Test of Korea*
 # publication_short: In *ISTK*
 
 abstract: SSD is an effective device for storing data, and various fields have chosen to use SSD. However, as the hardware components of SSD get more concentrated, SSD becomes more vulnerable to soft errors. A soft error on the SSD can cause malfunctions and SSD performance reductions. Previous studies investigated the impact of soft error on the application level. However, this study investigates the effect of soft error at the OS level. The experiment uses an in-house simulator, Flash OS, and a soft error manager, which is the overall executor of the investigation. While a virtual SSD, which is Flash OS, runs its task, the soft error manager injects a soft error by changing the context information of the task thread of the SSD. After the soft error occurs, the soft error manager traces errors in the OS layer. This process can measure the sensitivity of the OS component by the type of soft error injected task. The result shows that the vulnerability is concentrated on a particular OS component, depending on the task. Surprisingly, 68-71% of errors occurred in the most vulnerable OS component. This fact can hint at finding an effective and reliable method at the OS level to protect software functions from soft errors.
