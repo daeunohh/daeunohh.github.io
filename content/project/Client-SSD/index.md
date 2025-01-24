@@ -1,0 +1,15 @@
+---
+title: UX/UI development for PC SSD Analysis program
+date_start: 2021-03-15
+date_end: 2022-01-29
+link: https://github.com/pytorch/pytorch
+tags:
+  - SATA SSD
+  - NVMe SSD
+  - UX/UI design
+  - WPF, C++ project
+---
+
+User-friendly SSD status extraction / analysis tool for PC SSD products, including PM9C1, PM9A1a, and all other Samsung PC SSD lines.  
+
+<!--more-->
