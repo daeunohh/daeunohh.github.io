@@ -2,7 +2,9 @@
 title: UX/UI development for PC SSD Analysis program
 date_start: 2021-03-15
 date_end: 2022-01-29
-link: https://github.com/pytorch/pytorch
+links:
+- name: Conference Link
+  url: https://61dac.conference-program.com/presentation/?id=ETPOST121&sess=sess233
 tags:
   - SATA SSD
   - NVMe SSD
