@@ -3,8 +3,8 @@ title: UX/UI development for PC SSD Analysis program
 date_start: 2021-03-15
 date_end: 2022-01-29
 links:
-- name: Conference Link
-  url: https://61dac.conference-program.com/presentation/?id=ETPOST121&sess=sess233
+- name: Client Products
+  url: https://semiconductor.samsung.com/ssd/pc-ssd/
 tags:
   - SATA SSD
   - NVMe SSD
