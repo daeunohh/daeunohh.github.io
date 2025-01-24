@@ -96,15 +96,15 @@ skills:
       - name: C++
         description: ''
         percent: 80
-        icon: Cpp
+        icon: ''
       - name: C
         description: ''
         percent: 80
-        icon: C
+        icon: ''
       - name: Python
         description: ''
         percent: 70
-        icon: py
+        icon: ''
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
