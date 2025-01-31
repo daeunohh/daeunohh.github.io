@@ -59,21 +59,22 @@ jobs:
         path: public
     - name: List build output
       run: ls -R ./public  # Change this to your output directory
-
-  # Deploy website to GitHub Pages hosting
-  deploy:
-    if: github.repository_owner != 'HugoBlox'
-    environment:
-      name: github-pages 
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:    
-    - name: List Available Artifacts
-      run: |
-        # List the available artifacts for the current run to confirm upload success
-        echo "Listing all artifacts:"
-        gh run artifacts
     - name: Deploy to GitHub Pages
       # id: deployment
       uses: actions/deploy-pages@v3
+
+  # # Deploy website to GitHub Pages hosting
+  # deploy:
+  #   if: github.repository_owner != 'HugoBlox'
+  #   environment:
+  #     name: github-pages 
+  #     url: ${{ steps.deployment.outputs.page_url }}
+  #   runs-on: ubuntu-latest
+  #   needs: build
+  #   steps:    
+  #   - name: List Available Artifacts
+  #     run: |
+  #       # List the available artifacts for the current run to confirm upload success
+  #       echo "Listing all artifacts:"
+  #       gh run artifacts
+    
