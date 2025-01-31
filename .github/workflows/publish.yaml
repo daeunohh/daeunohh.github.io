@@ -53,6 +53,8 @@ jobs:
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
+    - name: List build output
+      run: ls -R ./public  # Change this to your output directory
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
