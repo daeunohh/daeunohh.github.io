@@ -65,7 +65,7 @@ jobs:
     - name: Deploy to GitHub Pages
       # id: deployment
       uses: actions/deploy-pages@v3
-      with:
+      with: 
         artifact_name: github-pages
         error_count: 10
         preview: true
