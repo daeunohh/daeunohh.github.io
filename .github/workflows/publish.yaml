@@ -56,7 +56,7 @@ jobs:
     - name: List build output
       run: ls -R ./public  # Change this to your output directory
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v3
+      uses: actions/upload-pages-artifact@v3.0.0
       with:
         path: public
 
