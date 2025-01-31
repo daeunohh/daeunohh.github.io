@@ -68,7 +68,7 @@ jobs:
       with: 
         artifact_name: github-pages
         error_count: 10
-        preview: true
+        preview: true 
   # # Deploy website to GitHub Pages hosting
   # deploy:
   #   if: github.repository_owner != 'HugoBlox'
