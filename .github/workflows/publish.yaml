@@ -58,7 +58,7 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
-        path: ./public
+        path: public
 
   # Deploy website to GitHub Pages hosting
   deploy:
@@ -72,10 +72,10 @@ jobs:
       pages: write
       id-token: write
     steps:    
-    - name: List Available Artifacts
-      env:
-        GH_TOKEN: ${{ github.token }}
-      run: gh run download --name github-pages  
+    # - name: List Available Artifacts
+    #   env:
+    #     GH_TOKEN: ${{ github.token }}
+    #   run: gh run download --name github-pages  
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v2
