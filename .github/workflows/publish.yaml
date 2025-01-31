@@ -67,7 +67,8 @@ jobs:
       uses: actions/deploy-pages@v3
       with:
         artifact_name: github-pages
-        artifact_path: public
+        error_count: 10
+        preview: true
   # # Deploy website to GitHub Pages hosting
   # deploy:
   #   if: github.repository_owner != 'HugoBlox'
