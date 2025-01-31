@@ -53,17 +53,21 @@ jobs:
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
+    
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3.0.0
       with:
         path: public
+    
     - name: List build output
       run: ls -R ./public  # Change this to your output directory
+    
     - name: Deploy to GitHub Pages
       # id: deployment
       uses: actions/deploy-pages@v3
       with:
         artifact_name: github-pages
+        artifact_path: public
   # # Deploy website to GitHub Pages hosting
   # deploy:
   #   if: github.repository_owner != 'HugoBlox'
