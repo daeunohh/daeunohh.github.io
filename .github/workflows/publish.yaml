@@ -72,7 +72,7 @@ jobs:
       pages: write
       id-token: write
     steps:    
-    - name: Debug: List Available Artifacts
+    - name: List Available Artifacts
       run: gh run download --name github-pages
     - name: Deploy to GitHub Pages
       id: deployment
