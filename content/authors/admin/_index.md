@@ -76,7 +76,7 @@ work:
       Responsibilities include:
       -  Developed a control center simulator for the LSAM (Long-range Surface-to-Air Missile) missile system.
   
-  - position: SSD Diagnostics Software Developer
+  - position: SSD Diagnostics Software Developer 
     company_name: Samsung Electronics
     company_url: https://semiconductor.samsung.com/
     company_logo: ''
