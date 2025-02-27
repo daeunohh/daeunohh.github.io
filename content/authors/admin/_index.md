@@ -116,6 +116,10 @@ skills:
         description: ''
         percent: 100
         icon: cat
+      - name: Read book
+        description: ''
+        percent: 100
+        icon: book
 
 languages:
   - name: English
