@@ -57,7 +57,7 @@ education:
     date_start: 2017-03-01
     date_end: 2021-02-17
     summary: |
-      GPA: 3.8/4.5
+      GPA: 3.8/4.5 (3.3/4.0)
       
       Courses included:
       - Embedded System
