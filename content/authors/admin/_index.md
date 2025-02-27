@@ -65,17 +65,7 @@ education:
       - Circuit Design
       - Machine Learning
       - Robotics
-work:
-  - position: Missile Simulation Developer
-    company_name: LIG Nex1
-    company_url: https://www.lignex1.com/eng/main.do
-    company_logo: ''
-    date_start: 2021-03-15
-    date_end: 2022-01-29
-    summary: |
-      Responsibilities include:
-      -  Developed a control center simulator for the LSAM (Long-range Surface-to-Air Missile) missile system.
-  
+work:  
   - position: SSD Diagnostics Software Developer 
     company_name: Samsung Electronics
     company_url: https://semiconductor.samsung.com/
@@ -87,6 +77,15 @@ work:
       -  Engineered an advanced SSD error analysis automation tool for data center SSDs, significantly improving reliability and maintenance processes.
       -  Implemented Samsung-specified SSD error log specifications into code, achieving precise and efficient error detection.
       -  Conducted a comprehensive analysis of customer requirements and integrated their needs into the software design, delivering customized solutions.
+  - position: Missile Simulation Developer
+    company_name: LIG Nex1
+    company_url: https://www.lignex1.com/eng/main.do
+    company_logo: ''
+    date_start: 2021-03-15
+    date_end: 2022-01-29
+    summary: |
+      Responsibilities include:
+      -  Developed a control center simulator for the LSAM (Long-range Surface-to-Air Missile) missile system.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
