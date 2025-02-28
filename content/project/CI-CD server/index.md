@@ -1,7 +1,9 @@
 ---
 title: CI/CD Server development for automating Software test and release
-date_start: 2024-07-01
-date_end: 2024-09-22
+date: 2024-07-01
+
+# date_start: 2024-07-01
+# date_end: 2024-09-22
 # links:
 # - name: Samsung Client SSD Products
 #   url: https://semiconductor.samsung.com/ssd/pc-ssd/
