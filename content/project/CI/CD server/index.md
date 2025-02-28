@@ -1,17 +1,17 @@
 ---
-title: UX/UI development for PC SSD Analysis program
-date_start: 2021-03-15
-date_end: 2022-01-29
-links:
-- name: Samsung Client SSD Products
-  url: https://semiconductor.samsung.com/ssd/pc-ssd/
+title: CI/CD Server development for automating Software test and release
+date_start: 2024-07-01
+date_end: 2024-09-22
+# links:
+# - name: Samsung Client SSD Products
+#   url: https://semiconductor.samsung.com/ssd/pc-ssd/
 tags:
-  - SATA SSD
-  - NVMe SSD
-  - UX/UI design
-  - WPF, C++ project
+  - SW testing
+  - Test automation
 ---
 
-User-friendly SSD status extraction / analysis tool for PC SSD products, including PM9C1, PM9A1a, and all other Samsung PC SSD lines.  
+Developed an automation server to facilitate developer tests of SSD analysis tools.
+The project includes python-built server program, LAN-connected to physical servers with target SSDs(SSD test server).
+Server gets input from multiple testers, schedules the job to the specific SSD test server, and returns a output report that evaluate SW operations.
 
 <!--more-->
