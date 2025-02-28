@@ -15,7 +15,7 @@ sections:
       username: admin
     design:
       # Hugo date format
-      date_format: '2023-11-25'
+      # date_format: '2006-01-02'
       # Education or Experience section first?
       is_education_first: false
   - block: resume-skills
