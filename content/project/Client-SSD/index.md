@@ -6,10 +6,10 @@ links:
 - name: Samsung Client SSD Products
   url: https://semiconductor.samsung.com/ssd/pc-ssd/
 tags:
-  - SATA SSD
-  - NVMe SSD
   - UX/UI design
   - WPF, C++ project
+  - SATA SSD
+  - NVMe SSD
 ---
 
 User-friendly SSD status extraction / analysis tool for PC SSD products, including PM9C1, PM9A1a, and all other Samsung PC SSD lines.  
