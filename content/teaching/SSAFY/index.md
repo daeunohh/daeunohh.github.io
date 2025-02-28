@@ -1,7 +1,8 @@
 ---
 title: SSAFY (Samsung Software Academy For Youth) Mentoring 
 summary: Learn about how to prepare for job searching as a developer and prepare projects with me!
-date: 2025-02-28
+date_start: 2025-01-10
+date_end: ''
 type: docs
 math: false
 tags:
