@@ -6,9 +6,9 @@ date_end: ''
 type: docs
 math: false
 tags:
+  - Job Searching Mentoring
   - C++ Mentoring
   - Project Mentoring
-  - Job Searching Mentoring
 links:
 - name: SSAFY 
   url: https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp
