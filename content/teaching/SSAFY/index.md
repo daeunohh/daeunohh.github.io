@@ -1,13 +1,19 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+title: SSAFY (Samsung Software Academy For Youth) Mentoring 
+summary: Learn about how to prepare for job searching as a developer and prepare projects with me!
+date: 2025-02-28
 type: docs
 math: false
 tags:
-  - Python
+  - C++ Mentoring
+  - Project Mentoring
+  - Job Searching Mentoring
+links:
+- name: SSAFY 
+  url: https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp
+
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'SSAFY Logo'
 ---
 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
