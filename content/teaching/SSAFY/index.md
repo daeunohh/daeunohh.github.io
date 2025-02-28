@@ -12,6 +12,8 @@ links:
 - name: SSAFY 
   url: https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp
 
+
+
 image:
   caption: 'SSAFY Logo'
 ---
