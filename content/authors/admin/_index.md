@@ -95,7 +95,7 @@ skills:
       - name: C++
         description: ''
         percent: 80
-        icon: 'Cpp'
+        icon: ''
       - name: C
         description: ''
         percent: 80
@@ -111,15 +111,15 @@ skills:
       - name: Room Escape
         description: ''
         percent: 99
-        icon: person-simple-walk
+        # icon: person-simple-walk
       - name: Going to Gym!
         description: ''
         percent: 100
-        icon: cat
+        # icon: cat
       - name: Reading books
         description: ''
         percent: 100
-        icon: stack
+        # icon: stack
 
 languages:
   - name: English
