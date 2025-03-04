@@ -54,7 +54,7 @@ interests:
 education:
   - area: BS Engineering
     institution: Sungkyunkwan University
-    date_start: 2017-03-01
+    date_start: 2019-03-01
     date_end: 2021-02-17
     summary: |
       GPA: 3.8/4.5 (3.3/4.0)
@@ -65,6 +65,19 @@ education:
       - Circuit Design
       - Machine Learning
       - Robotics
+  - area: BS Engineering (Transfered)
+    institution: Sejong University
+    date_start: 2017-03-01
+    date_end: 2019-02-01
+    # summary: |
+    #   GPA: 3.8/4.5 (3.3/4.0)
+      
+    #   Courses included:
+    #   - Embedded System
+    #   - Computer architecture
+    #   - Circuit Design
+    #   - Machine Learning
+    #   - Robotics
 work:  
   - position: SSD Diagnostics Software Developer 
     company_name: Samsung Electronics
