@@ -119,7 +119,7 @@ skills:
       - name: Reading books
         description: ''
         percent: 100
-        icon: books
+        icon: stack
 
 languages:
   - name: English
