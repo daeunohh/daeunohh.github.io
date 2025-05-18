@@ -12,11 +12,17 @@ links:
 - name: SSAFY 
   url: https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp
 
-
-
 image:
   caption: 'SSAFY Logo'
 ---
+
+![SSAFY Mentoring](/images/1742912826104.jpeg)
+<sub><em>_2025 February meeting with our mentor and my mentees!_</em></sub>
+
+Mentoring talented junior software engineers in SSAFY about their career path, job-searching, and ongoing projects! I am happy to communicate with junior developers and help them get on the most efficient track to become a professional SW engineer.
+
+---
+
 <!-- 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
