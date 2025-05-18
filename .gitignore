@@ -1,0 +1,19 @@
+# Hugo build output
+/public/
+/docs/
+/resources/_gen/
+/hugo_stats.json
+hugo_stats.*
+
+# OS/Editor generated
+.DS_Store
+Thumbs.db
+*.log
+
+# Hugo modules cache
+/.hugo_cache/
+
+# VS Code settings (if using)
+.vscode/
+
+.hugo_build.lock
